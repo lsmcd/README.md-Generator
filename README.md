@@ -2,14 +2,14 @@
 
 ## Description
 
-A helpful tool for writing READMEs, bootcamp activity I've finished
+A helpful tool for writing READMEs. A bootcamp activity I completed to practice Node.
 
-Api's/Libraries
+Api's/Libraries used:
 
 - <https://www.npmjs.com/package/inquirer>
 - <https://nodejs.org>
 
-Text and code snippet sources
+Text and code snippet sources used:
 
 - <https://choosealicense.com>
 - <https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba>
@@ -28,7 +28,7 @@ Text and code snippet sources
 
 ## Installation
 
-Requires: Node, NPM. Run "npm init" in the project's main directory. Upon completion, run "node index.js"
+Requires: Node, NPM. Run "npm init" in the project's main directory then run "npm i inquirer"
 
 ## Usage
 

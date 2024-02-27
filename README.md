@@ -28,7 +28,7 @@ Text and code snippet sources used:
 
 ## Installation
 
-Requires: Node, NPM. Run "npm init" in the project's main directory then run "npm i inquirer"
+Requires: Node, NPM. Run "npm init -y" in the project's main directory then run "npm i"
 
 ## Usage
 
